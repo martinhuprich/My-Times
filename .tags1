@@ -4,54 +4,20 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^<html>$/;"	function	line:2
-head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <head>$/;"	function	line:3
-meta	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
-link	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <link rel="stylesheet" href="resources\/css\/index.css" type="text\/css">$/;"	function	line:5
-title	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <title>My Times<\/title>$/;"	function	line:6
-body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <body>$/;"	function	line:8
-header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <header>$/;"	function	line:9
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="logo">$/;"	function	line:10
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <img src="resources\/images\/img-myt-logo.jpg" alt="Logo">$/;"	function	line:11
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <span>My Times<\/span>$/;"	function	line:12
-nav	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^       <nav class="top_navigation">$/;"	function	line:14
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <span><a href="#">World<\/a><\/span> <!-- Top Navigation in Header -->$/;"	function	line:15
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <span><a href="#">U.S.<\/a><\/span>$/;"	function	line:16
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <span><a href="#">Tech<\/a><\/span>$/;"	function	line:17
-span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^         <span><a href="#">Science<\/a><\/span>$/;"	function	line:18
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <div class="main-container">$/;"	function	line:21
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="column-large"> <!-- large part of main section consisting of three containers -->$/;"	function	line:22
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:23
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^           <div class="main-article-image">$/;"	function	line:24
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <img src="#" alt="Mother of Three Buys Tuna Steak at Phish Concert. Leaves, 'Feeling Funny.'">$/;"	function	line:25
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^           <div class="article-text">$/;"	function	line:27
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <p>MONUMENT VALLEY, AZ - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nec nisl at augue dapibus dignissim. Nunc condimentum rutrum metus, ac eleifend lacus viverra nec. Proin ultrices egestas diam sed mollis. Nulla sapien massa, dictum vitae est et, pellentesque rutrum risus. Nunc volutpat, metus ac rutrum tempus, orci nisi porttitor dolor, sit amet luctus metus est ut mauris. Quisque vulputate nisl vitae massa rhoncus, at sagittis elit accumsan. Etiam tempus, lorem quis blandit imperdiet, enim dui lobortis tortor, sit amet lobortis arcu ex id odio. Nam fermentum nulla et eros bibendum, sed ullamcorper massa scelerisque. Vestibulum aliquet placerat leo a hendrerit. Nulla non sagittis neque. Nullam sit amet fringilla massa.<\/p>$/;"	function	line:28
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:31
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-content">$/;"	function	line:32
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <h2>Orca Spends Vacation at Land World Puget<\/h2>$/;"	function	line:33
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <p>PUGET, SO - Sed felis elit, faucibus et ipsum vel, vehicula ultrices purus. Sed congue odio vitae malesuada rhoncus. Integer vitae nisi pulvinar ante accumsan...<\/p>$/;"	function	line:34
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="orca-article-picture">$/;"	function	line:36
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <img src="#" alt="Earth Spins Backwards for 2017">$/;"	function	line:37
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:40
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-content">$/;"	function	line:41
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <h2>Burger for Breakfast: How Early is too Early?<\/h2>$/;"	function	line:42
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <p>Mew York, MY—Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque id quam facilisis, ultrices ante ut, rutrum enim. Praesent eu nisl erat.<\/p>$/;"	function	line:43
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="camera-article-image">$/;"	function	line:45
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <img src="#" alt="Research Shows Cameras Erase Memory">$/;"	function	line:46
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="column-medium">$/;"	function	line:50
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:51
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-content">$/;"	function	line:52
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <h2>FBI Finds Action Star Guilty of False Advertising<\/h2>$/;"	function	line:53
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <p>WASHINGTON DC- Donec luctus sem augue, rutrum posuere orci aliquam sed. Nam vitae aliquam lectus. Sed tempor tortor est, nec sagittis eros tincidunt sed. Morbi venenatis condimentum sem, vitae sollicitudin turpis pulvinar eget. Morbi pellentesque consectetur mi id auctor. Phasellus tincidunt orci mauris, placerat pharetra urna fringilla vitae. Morbi eget rutrum urna. Cras condimentum augue ut ante sollicitudin interdum. Pellentesque cursus dolor at tincidunt cursus. Vestibulum blandit aliquam felis...<\/p>$/;"	function	line:54
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:57
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-image">$/;"	function	line:58
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <img src="#" alt="Cats in Control-Is It a Thing?">$/;"	function	line:59
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-content">$/;"	function	line:61
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <p>BROOKLYN, NY- In molestie nulla sodales sit amet. Proin vulputate, ipsum porta aliquam commodo, nunc nibh tincidunt lorem, vel consectetur neque mi vel neque. Mauris ultricies, nulla scelerisque sollicitudin lobortis, dui est sodales sapien, a vestibulum velit diam eget felis. Vivamus dignissim lacinia dolor, quis commodo tellus pellentesque in.<\/p>$/;"	function	line:62
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="column-small">$/;"	function	line:67
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <div class="article">$/;"	function	line:68
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-image">$/;"	function	line:69
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <img src="https:\/\/s3.amazonaws.com\/codecademy-content\/courses\/freelance-1\/unit-4\/img-news-bite.png" alt="">$/;"	function	line:70
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <div class="article-content">$/;"	function	line:71
-h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^              <h3>NEWS BITES<\/h3>$/;"	function	line:72
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^              <p>Cat Emoji Goes Viral Buy Youtube Views Home Business Advertising Ideas Advertising Internet Online Illustration in Marketing Materials Finally a Top Secret Way You Can<\/p>$/;"	function	line:73
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^body {$/;"	function	line:1
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^header {$/;"	function	line:6
+.logo	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.logo {$/;"	function	line:23
+.logo span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^ .logo span {$/;"	function	line:30
+.top_navigation	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation {$/;"	function	line:37
+.top_navigation a	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation a {$/;"	function	line:41
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^div {$/;"	function	line:51
+.main-container	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-container {$/;"	function	line:54
+.column-large	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-large {$/;"	function	line:59
+.column-medium	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-medium {$/;"	function	line:64
+.column-small	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small {$/;"	function	line:69
+.column-small img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small img {$/;"	function	line:74
+.article-image	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-image {$/;"	function	line:81
+.main-article	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-article {$/;"	function	line:86
+.article-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-one {$/;"	function	line:90
+.article-two	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-two {$/;"	function	line:94
+.article-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-three {$/;"	function	line:98

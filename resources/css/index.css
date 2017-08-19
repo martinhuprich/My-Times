@@ -61,10 +61,6 @@ div {
   padding-top: 120px;
 }
 
-.main-article-image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
-}
-
 .column-medium {
   width: 300px;
   padding-top: 120px;
@@ -78,4 +74,27 @@ div {
 .column-small img {
   width: 230px;
   height: 230px;
+}
+
+/*images for main content as background of containers*/
+/*general image settings*/
+.article-image {
+  height: 300px;
+  display: flex;
+}
+/* individual background images*/
+.main-article {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+}
+
+.article-one {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+}
+
+.article-two {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+}
+
+.article-three {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png");
 }
