@@ -134,3 +134,23 @@ header {
 .article-content-main {
   height: 250px;
 }
+
+/* news items */
+.news-bite-items {
+  display: flex;
+  flex-direction: column;
+  background-color: WhiteSmoke;
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
+}
+
+.news-bite-items span {
+  border-bottom: black 1px solid;
+  padding: 10px 20px;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: bold;
+}

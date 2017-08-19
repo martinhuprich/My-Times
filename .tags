@@ -48,7 +48,13 @@ div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^ 
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-image article-four"><\/div>$/;"	function	line:74
 div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <div class="article-content">$/;"	function	line:75
 h	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^           <h3>NEWS BITES<\/h3>$/;"	function	line:76
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^           <p>Cat Emoji Goes Viral Buy Youtube Views Home Business Advertising Ideas Advertising Internet Online Illustration in Marketing Materials Finally a Top Secret Way You Can<\/p>$/;"	function	line:77
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^            <div class="news-bite-items">$/;"	function	line:77
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Cat Emoji Goes Viral<\/span>$/;"	function	line:78
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Buy Youtube Views<\/span>$/;"	function	line:79
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Home Business Advertising Ideas<\/span>$/;"	function	line:80
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Advertising Internet Online<\/span>$/;"	function	line:81
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Illustration in Marketing Materials<\/span>$/;"	function	line:82
+span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^             <span>Finally a Top Secret Way You Can<\/span>$/;"	function	line:83
 body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^body {$/;"	function	line:1
 header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^header {$/;"	function	line:6
 .logo	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.logo {$/;"	function	line:23
@@ -72,3 +78,6 @@ header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/c
 .large-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.large-content {$/;"	function	line:125
 .story	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.story {$/;"	function	line:130
 .article-content-main	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content-main {$/;"	function	line:134
+.news-bite-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items {$/;"	function	line:139
+.news-bite-items span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items span {$/;"	function	line:148
+h3	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^h3 {$/;"	function	line:153

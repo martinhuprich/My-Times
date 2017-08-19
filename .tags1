@@ -27,3 +27,6 @@ header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/c
 .large-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.large-content {$/;"	function	line:125
 .story	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.story {$/;"	function	line:130
 .article-content-main	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content-main {$/;"	function	line:134
+.news-bite-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items {$/;"	function	line:139
+.news-bite-items span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items span {$/;"	function	line:148
+h3	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^h3 {$/;"	function	line:153
