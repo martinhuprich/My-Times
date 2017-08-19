@@ -4,19 +4,13 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^<html>$/;"	function	line:2
-head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <head>$/;"	function	line:3
-meta	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
-link	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <link rel="stylesheet" href="resources\/css\/index.css" type="text\/css">$/;"	function	line:5
-title	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <title>My Times<\/title>$/;"	function	line:6
-body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <body>$/;"	function	line:8
-head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <head class="flex-header">$/;"	function	line:9
-img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <img src="resources\/images\/img-myt-logo.jpg" alt="Logo">$/;"	function	line:11
-p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <p>My Times<\/p>$/;"	function	line:12
-div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="header-logo">$/;"	function	line:14
-nav	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <nav class="header-nav">$/;"	function	line:15
-ul	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <ul>$/;"	function	line:16
-li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">World<\/a><\/li>$/;"	function	line:17
-li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">U.S.<\/a><\/li>$/;"	function	line:18
-li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">Tech<\/a><\/li>$/;"	function	line:19
-li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">Science<\/a><\/li>$/;"	function	line:20
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^body {$/;"	function	line:1
+header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^header {$/;"	function	line:6
+.logo	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.logo {$/;"	function	line:23
+.logo span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^ .logo span {$/;"	function	line:30
+.top_navigation	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation {$/;"	function	line:36
+.top_navigation a	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation a {$/;"	function	line:41
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^div {$/;"	function	line:51
+.main-container	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-container {$/;"	function	line:54
+.column-large	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-large {$/;"	function	line:59
+.column-medium	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-medium {$/;"	function	line:64

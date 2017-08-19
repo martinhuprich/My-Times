@@ -1,6 +1,8 @@
 body {
   display: block;
 }
+
+/* css for header start */
 header {
   display: flex;
   align-items: center;
@@ -12,13 +14,17 @@ header {
   font-size: 14px;
   font-weight: bold;
   justify-content: space-between;
-  position: fixed;
+  /*position: fixed;*/
   height: 80px;
+  z-index: 1;
+
 }
 
 .logo {
   display: flex;
-  margin-left: 50px;
+/*  margin-left: 50px;*/
+width: 100%;
+
   }
 
  .logo span {
@@ -29,10 +35,33 @@ header {
 
 .top_navigation {
   margin-right: 60px;
+  width: 100%;
 }
 
 .top_navigation a {
   color: black;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+/* css used for main section*/
+
+/* main section big container on the left */
+
+div {
+  border: 1px solid black;
+}
+.main-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.column-large {
+  width: 630px;
+  padding-top: 120px;
+}
+
+.column-medium {
+  width: 300px;
+  padding-top: 120px;
 }
