@@ -80,11 +80,24 @@ div {
 /*general image settings*/
 .article-image {
   height: 300px;
+  color: white;
+  font-weight: bold;
+  font-family: Georgia;
+  font-size: 30px;
+  display: flex;
+}
 
+.article-image span {
+  text-align: center;
 }
 /* individual background images*/
 .main-article {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+  font-size: 40px;
+}
+
+.main-article span {
+  text-align: left;
 }
 
 .article-one {
@@ -101,4 +114,12 @@ div {
 
 .article-four {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-news-bite.png");
+}
+
+/* styling for article content */
+
+.article-content {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
 }
