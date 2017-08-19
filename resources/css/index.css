@@ -48,9 +48,6 @@ header {
 
 /* main section big container on the left */
 
-div {
-  border: 1px solid black;
-}
 .main-container {
   display: flex;
   justify-content: space-around;
@@ -122,4 +119,18 @@ div {
   font-family: Georgia;
   font-size: 17px;
   color: black;
+}
+/* content below main article in column-large*/
+
+.large-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.story {
+  width: 300px;
+}
+
+.article-content-main {
+  height: 250px;
 }
