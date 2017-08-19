@@ -51,6 +51,7 @@ header {
 .main-container {
   display: flex;
   justify-content: space-around;
+  margin: 0px auto 80px auto;
 }
 /* large column */
 .column-large {
@@ -86,6 +87,7 @@ header {
 
 .article-image span {
   text-align: center;
+  justify-content: center;
 }
 /* individual background images*/
 .main-article {
@@ -153,4 +155,35 @@ header {
 h3 {
   font-size: 16px;
   font-weight: bold;
+}
+
+/*footer section */
+
+.footer {
+  background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer-link-section {
+  margin-bottom: 15px;
+}
+
+.footer-link-section .small-logo{
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-link-section span {
+  text-decoration: underline;
+  padding: 20px 15px;
 }

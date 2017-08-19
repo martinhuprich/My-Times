@@ -11,22 +11,26 @@ header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/c
 .top_navigation	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation {$/;"	function	line:37
 .top_navigation a	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.top_navigation a {$/;"	function	line:41
 .main-container	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-container {$/;"	function	line:51
-.column-large	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-large {$/;"	function	line:56
-.column-medium	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-medium {$/;"	function	line:61
-.column-small	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small {$/;"	function	line:66
-.column-small img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small img {$/;"	function	line:71
-.article-image	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-image {$/;"	function	line:78
-.article-image span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-image span {$/;"	function	line:87
-.main-article	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-article {$/;"	function	line:91
-.main-article span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-article span {$/;"	function	line:96
-.article-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-one {$/;"	function	line:100
-.article-two	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-two {$/;"	function	line:104
-.article-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-three {$/;"	function	line:108
-.article-four	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-four {$/;"	function	line:112
-.article-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content {$/;"	function	line:118
-.large-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.large-content {$/;"	function	line:125
-.story	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.story {$/;"	function	line:130
-.article-content-main	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content-main {$/;"	function	line:134
-.news-bite-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items {$/;"	function	line:139
-.news-bite-items span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items span {$/;"	function	line:148
-h3	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^h3 {$/;"	function	line:153
+.column-large	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-large {$/;"	function	line:57
+.column-medium	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-medium {$/;"	function	line:62
+.column-small	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small {$/;"	function	line:67
+.column-small img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.column-small img {$/;"	function	line:72
+.article-image	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-image {$/;"	function	line:79
+.article-image span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-image span {$/;"	function	line:88
+.main-article	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-article {$/;"	function	line:93
+.main-article span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.main-article span {$/;"	function	line:98
+.article-one	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-one {$/;"	function	line:102
+.article-two	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-two {$/;"	function	line:106
+.article-three	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-three {$/;"	function	line:110
+.article-four	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-four {$/;"	function	line:114
+.article-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content {$/;"	function	line:120
+.large-content	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.large-content {$/;"	function	line:127
+.story	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.story {$/;"	function	line:132
+.article-content-main	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.article-content-main {$/;"	function	line:136
+.news-bite-items	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items {$/;"	function	line:141
+.news-bite-items span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.news-bite-items span {$/;"	function	line:150
+h3	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^h3 {$/;"	function	line:155
+.footer	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.footer {$/;"	function	line:162
+.footer-link-section	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.footer-link-section {$/;"	function	line:174
+.footer-link-section .small-logo	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.footer-link-section .small-logo{$/;"	function	line:178
+.footer-link-section span	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.footer-link-section span {$/;"	function	line:186
