@@ -1,0 +1,21 @@
+.flex-header	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.flex-header {$/;"	function	line:1
+.header-logo	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^.header-logo {$/;"	function	line:5
+ul	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^ul {$/;"	function	line:9
+li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^li {$/;"	function	line:14
+li a	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/resources/css/index.css	/^li a {$/;"	function	line:17
+html	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^<html>$/;"	function	line:2
+head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+link	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <link rel="stylesheet" href="resources\/css\/index.css" type="text\/css">$/;"	function	line:5
+title	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <title>My Times<\/title>$/;"	function	line:6
+body	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^  <body>$/;"	function	line:8
+head	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^    <head class="flex-header">$/;"	function	line:9
+img	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <img src="resources\/images\/img-myt-logo.jpg" alt="Logo">$/;"	function	line:11
+p	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <p>My Times<\/p>$/;"	function	line:12
+div	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <div class="header-logo">$/;"	function	line:14
+nav	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^      <nav class="header-nav">$/;"	function	line:15
+ul	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^        <ul>$/;"	function	line:16
+li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">World<\/a><\/li>$/;"	function	line:17
+li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">U.S.<\/a><\/li>$/;"	function	line:18
+li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">Tech<\/a><\/li>$/;"	function	line:19
+li	/Users/martinhuprich/Documents/Martins Zeug/Projekte/My-Times/index.html	/^          <li><a href="#">Science<\/a><\/li>$/;"	function	line:20
