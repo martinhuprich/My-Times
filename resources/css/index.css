@@ -14,7 +14,7 @@ header {
   font-size: 14px;
   font-weight: bold;
   justify-content: space-between;
-  /*position: fixed;*/
+  position: fixed;
   height: 80px;
   z-index: 1;
 
@@ -23,7 +23,7 @@ header {
 .logo {
   display: flex;
 /*  margin-left: 50px;*/
-width: 100%;
+
 
   }
 
@@ -31,11 +31,11 @@ width: 100%;
    padding-top: 20px;
    color: MediumAquamarine;
    padding-left: 10px;
+   flex-wrap: nowrap;
  }
 
 .top_navigation {
   margin-right: 60px;
-  width: 100%;
 }
 
 .top_navigation a {
@@ -55,13 +55,27 @@ div {
   display: flex;
   justify-content: space-around;
 }
-
+/* large column */
 .column-large {
   width: 630px;
   padding-top: 120px;
 }
 
+.main-article-image {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+}
+
 .column-medium {
   width: 300px;
   padding-top: 120px;
+}
+
+.column-small {
+  padding-top: 120px;
+  width: 240px;
+}
+
+.column-small img {
+  width: 230px;
+  height: 230px;
 }
